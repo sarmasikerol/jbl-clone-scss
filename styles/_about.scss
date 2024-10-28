@@ -1,0 +1,12 @@
+.about {
+     &_data {
+        text-align: center;
+     }
+     &_description {
+        margin: 40px 0;
+     }
+     &__img {
+        width: 280px;
+        justify-self: center;
+     }
+}
